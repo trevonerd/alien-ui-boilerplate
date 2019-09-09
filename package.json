@@ -3,6 +3,7 @@
     "version": "0.0.1",
     "description": "React component library boilerplate using styled-components",
     "main": "index.js",
+    "homepage": "https://github.com/trevonerd/alien-ui-boilerplate#readme",
     "scripts": {
         "clean": "rm -rf lib && rm -rf node_modules",
         "prepublishOnly": "npm run release",
