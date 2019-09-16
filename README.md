@@ -17,4 +17,6 @@ $ git init
 
 ## Development and Storybook
 
-I will add Storybook soon...
+```bash
+$ yarn storybook
+```

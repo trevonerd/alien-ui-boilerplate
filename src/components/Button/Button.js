@@ -8,8 +8,6 @@ const ButtonPrimary = styled.button`
     padding: 10px 30px;
 `;
 
-const Button = props => {
-    return <ButtonPrimary type="button">{props.children}</ButtonPrimary>;
-};
+const Button = props => <ButtonPrimary type="button">{props.children}</ButtonPrimary>;
 
 export default Button;
